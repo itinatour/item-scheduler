@@ -3,8 +3,6 @@ D
 public/manifest.json,4\2\42e89cd2213b9d5dfae4f63522702c623170d792
 A
 public/robots.txt,d\a\dac799070c2d0c2fa24462b02c1f2dcc3fb3a1e9
-=
-src/index.css,c\5\c5d38a62d1faae90a2acaa34b79a7ef365c917e4
 ;
 src/App.css,a\a\aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
 :
@@ -22,5 +20,9 @@ F
 src/reportWebVitals.ts,d\9\d938938695d447dadda115e28781c6541f53fc4f
 A
 src/setupTests.ts,3\9\39129446b425a1d640160c068e4194e96639eedf
-;
-src/App.tsx,8\3\835da56f32df714aaed6285a5b7fc3a7807851e4
+=
+tsconfig.json,6\1\61ebb9fd6e8cf9082658121d5d81e297791dacd0
+J
+src/demos/BaseDemoData.tsx,6\1\6143ec23700290df78053242d8af9871b9a02d7d
+R
+"src/components/items/ItemProps.tsx,7\0\703348da50c83ff930ad610f85e9f19d39954262

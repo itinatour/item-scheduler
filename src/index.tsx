@@ -11,7 +11,10 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <ItemScheduler items={items}/>
+      <div style={{width: 500, paddingLeft: 100, paddingTop: 100, height: 500}}>
+          <ItemScheduler items={items}/>
+      </div>
+
   </React.StrictMode>
 );
 
