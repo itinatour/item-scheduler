@@ -1,13 +1,10 @@
 # item-scheduler
 
-(coming soon)
 
-item-scheduler is a react component developed in typescript that allows the scheduling of items on a grid.
+## Available Scripts
 
-## Inputs
+In the project directory, you can run:
 
-_rowHeaders_ - string[] (Optional - no headers as default), must be equal to _numberColumns + 1_
-
-_numberColumns_ - number (minimum 1) (default 1)
-
-dateMode - boolean
+### `npm start`
+### `npm test`
+### `npm run build`

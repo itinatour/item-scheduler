@@ -3,18 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import ItemScheduler from "./components/ItemScheduler";
-import {items} from "./demos/BaseDemoData";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-      <div style={{width: 500, paddingLeft: 100, paddingTop: 100, height: 500}}>
-          <ItemScheduler items={items}/>
-      </div>
-
+    <App />
   </React.StrictMode>
 );
 
